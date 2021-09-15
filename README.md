@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo! 🚀
 - 📖 Amo aprender coisas novas
-- 💻 Trabalho como full-stack
+- 💻 Trabalho como full-stack developer
   
 ###
  <div>
