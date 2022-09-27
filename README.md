@@ -8,13 +8,13 @@ Função:
 💻 Trabalho como full-stack developer
 
 Estudos:
-✅ Formado em Engenharia de Controle e Automação
-🎓 Aluno de MBA em Full Stack Development na FIAP
-🚀 Aluno Ignite na Rocketseat
+✅ Formado no MBA - Full Stack Development na FIAP
+✅ Formado em Engenharia de Controle e Automação no IFSP
 
 Hobbies:
 🎬 Filmes e Séries
 🐶 Pai de um cachorro
+
 ```
 
 <h2 align="left">Tecnologias </h2>
