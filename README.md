@@ -25,7 +25,7 @@ My journey has taken me from writing code to leading engineering teams and desig
 - 📖 Always learning, experimenting and sharing what I build.
 - 🐶 Proud dog dad. Toddynho is my unofficial pair programmer.
 
-### 🧪 What's happening in this GitHub?
+### 🧪 What you'll find here
 
 A playground for continuous learning and hands-on engineering.
 
