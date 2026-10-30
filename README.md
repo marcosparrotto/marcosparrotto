@@ -1,47 +1,81 @@
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-```
-Lema:
-📖 Amo aprender coisas novas
-
-Função:
-💻 Trabalho como full-stack developer
-
-Estudos:
-✅ Formado no MBA - Full Stack Development na FIAP
-✅ Formado em Engenharia de Controle e Automação no IFSP
-
-Hobbies:
-🎬 Filmes e Séries
-🐶 Pai de um cachorro
-
-```
-
-<h2 align="left">Tecnologias </h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mbp-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mbp-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mbp-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Mbp-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mbp-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mbp-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mbp-Jenkins" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Mbp-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-
-<br><br>
-
-<h2 align="left">Estudando </h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mbp-Azure" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Mbp-AWS" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Mbp-Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
-</div>
- 
-<br><br>
-
-<h2 align="left">Contatos</h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/marcos-parrotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcosparrotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+
+# Hey, I'm Marcos! 👋
+
+**Software Engineer • Tech Lead • Curious Builder**
+
+*Building things, breaking things, and learning from both — one commit at a time. 🚀*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-parrotto)
+
+</div>
+
+---
+
+### 👨‍💻 A little about me
+
+I'm a software engineer who enjoys turning complex problems into simple, scalable solutions.
+
+My journey has taken me from writing code to leading engineering teams and designing software architectures. But no matter the role, I still love getting my hands dirty with code.
+
+- 💻 Passionate about backend development, software architecture and cloud.
+- 🤖 Exploring AI Engineering, LLMs, RAG and AI agents.
+- 🧠 Interested in system design, clean architecture, DDD and testing.
+- 📖 Always learning, experimenting and sharing what I build.
+- 🐶 Proud dog dad. Toddy is my unofficial pair programmer.
+
+### 🛠️ My toolbox
+
+**Languages & Development**
+
+`TypeScript` · `JavaScript` · `Node.js` · `React`
+
+**Cloud & DevOps**
+
+`Azure` · `Docker` · `Git` · `Azure DevOps` · `CI/CD`
+
+**Data & AI**
+
+`SQL` · `MongoDB` · `Databricks` · `LLMs` · `RAG`
+
+**Automation**
+
+`Power Apps` · `Power Automate` · `Power Platform`
+
+### 🧪 What's happening in this GitHub?
+
+A playground for continuous learning and hands-on engineering.
+
+- **Daily coding:** Small exercises, experiments and new ideas.
+- **Engineering projects:** Backend, architecture, integrations and cloud.
+- **AI experiments:** Agents, LLM applications and development workflows.
+- **Learning in public:** Documenting lessons, mistakes and discoveries.
+
+### 📚 Currently exploring
+
+- ☁️ Microsoft Azure — AZ-104
+- 🤖 AI Engineering and AI-assisted software development
+- 🏗️ Software architecture, system design and testing practices
+
+### 🎓 A bit of background
+
+- **Control and Automation Engineering** — IFSP
+- **Full Stack Development** — FIAP
+- **Agile Leadership** — PUC-Campinas
+
+### 🌍 Let's connect
+
+I'm always happy to exchange ideas about software engineering, architecture, cloud and AI.
+
+[LinkedIn](https://www.linkedin.com/in/marcos-parrotto)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by! 👾**
+
+*Good code, good coffee, and good company. ☕🐶*
+
 </div>
