@@ -5,7 +5,7 @@
 
 **Software Engineer • Tech Lead • Curious Builder**
 
-*Building things, breaking things, and learning from both — one commit at a time. 🚀*
+*Building things, breaking things, and learning from both, one commit at a time. 🚀*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-parrotto)
 
@@ -23,25 +23,7 @@ My journey has taken me from writing code to leading engineering teams and desig
 - 🤖 Exploring AI Engineering, LLMs, RAG and AI agents.
 - 🧠 Interested in system design, clean architecture, DDD and testing.
 - 📖 Always learning, experimenting and sharing what I build.
-- 🐶 Proud dog dad. Toddy is my unofficial pair programmer.
-
-### 🛠️ My toolbox
-
-**Languages & Development**
-
-`TypeScript` · `JavaScript` · `Node.js` · `React`
-
-**Cloud & DevOps**
-
-`Azure` · `Docker` · `Git` · `Azure DevOps` · `CI/CD`
-
-**Data & AI**
-
-`SQL` · `MongoDB` · `Databricks` · `LLMs` · `RAG`
-
-**Automation**
-
-`Power Apps` · `Power Automate` · `Power Platform`
+- 🐶 Proud dog dad. Toddynho is my unofficial pair programmer.
 
 ### 🧪 What's happening in this GitHub?
 
@@ -68,14 +50,12 @@ A playground for continuous learning and hands-on engineering.
 
 I'm always happy to exchange ideas about software engineering, architecture, cloud and AI.
 
-[LinkedIn](https://www.linkedin.com/in/marcos-parrotto)
-
 ---
 
 <div align="center">
 
 **Thanks for stopping by! 👾**
 
-*Good code, good coffee, and good company. ☕🐶*
+*Good code, good Coke, and good company 🐶*
 
 </div>
